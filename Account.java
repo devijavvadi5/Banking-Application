@@ -8,7 +8,7 @@ public class Account {
     int prevTransaction;
     //constructor
     Account(String cname,String cid){
-        System.out.println(); // just for nice view
+        System.out.println(); // just  for visual purpose
         customerName = cname;
         customerId = cid;
     }
